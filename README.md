@@ -1,7 +1,7 @@
-# js快速复制方法
+# 动态设置elementui主题
 
 
 ```
-import copy from '@iamgx/easy-copy'
-copy('哈哈哈123');
+import modifyElementUiTheme from '@iamgx/modify-element-ui-theme'
+modifyElementUiTheme({ theme: '#f40f40' });
 ```

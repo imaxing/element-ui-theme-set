@@ -1,10 +1,11 @@
 {
-  "name": "@iamgx/easy-copy",
+  "name": "@iamgx/element-ui-theme-set",
   "version": "1.0.0",
   "author": "GeXing",
-  "description": "复制内容",
+  "description": "动态设置elementui主题",
   "main": "src/index.js",
   "module": "src/index.js",
+  "keywords": ["element-ui", "element-ui 动态主题"],
   "scripts": {
     "release": "npm version patch && npm publish --access public"
   }
